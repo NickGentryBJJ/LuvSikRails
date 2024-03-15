@@ -23,4 +23,5 @@
 /config/master.key
 
 # Ignore seeds to hide credentials
-seeds.rb
+db/seeds.rb
+
