@@ -17,12 +17,10 @@ class Api::SessionsController < ApplicationController
     else 
       render json: {errors: ['The provided credentials were invalid.']}, status: 422
     end
-    
   end
 
   def destroy
     logout! 
     render json: {message: ['Success']}
   end
-
 end
