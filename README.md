@@ -1,6 +1,7 @@
-# Backend for Luvsikangel.com! 
+# Backend for Luvsikangel.com! <code><img width="12%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 
 ### The LuvSikAngel Backend is a solution being designed to empower my client to manage their website content independently. With a user-friendly interface and powerful features, clients can easily update their website with new show dates, keeping their audience informed and engaged.
+
 
 # Key Features
 
