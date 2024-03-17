@@ -5,8 +5,8 @@
 
 # Key Features
 
-- User Authentication: The backend includes pre-created user accounts with secure authentication, ensuring that only authorized users can access and manage the website content.
+- User Authentication: The backend includes a pre-created user account with secure authentication, ensuring that only authorized users can access and manage the website content.
 
-- Show Date Management: Clients can create, read, update, and delete show dates effortlessly through the backend interface. This allows them to keep their audience informed about upcoming events, performances, or shows.
+- Show Date Management: The client can create, read, update, and delete show dates effortlessly through the backend interface. This allows them to keep their audience informed about upcoming events, performances, or shows.
 
 - Simplicity and Efficiency: The backend is designed with simplicity in mind, allowing clients to perform tasks quickly and efficiently without the need for technical expertise. This enhances their ability to manage their website effectively.
